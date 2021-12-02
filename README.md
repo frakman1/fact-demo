@@ -1,4 +1,4 @@
 # pentest-demo
-presentation of the Immersive Labs Infrastructure pentesting demo
+Presentation of the FACT Firmware Analysis & Comparison tool
 
-Presentation viewable [here](http://raw.githack.com/frakman1/pentest-demo/main/index.html)
+Presentation viewable [here](http://raw.githack.com/frakman1/fact-demo/main/index.html)
