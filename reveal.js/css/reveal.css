@@ -224,7 +224,7 @@ body {
 .reveal .controls .navigate-left {
   top: 42px;
   border-right-width: 22px;
-  border-right-color: #000; }
+  border-right-color: #0000ff; }
 
 .reveal .controls .navigate-left.fragmented {
   opacity: 0.3; }
@@ -233,7 +233,7 @@ body {
   left: 74px;
   top: 42px;
   border-left-width: 22px;
-  border-left-color: #000; }
+  border-left-color: #0000ff; }
 
 .reveal .controls .navigate-right.fragmented {
   opacity: 0.3; }
@@ -241,7 +241,7 @@ body {
 .reveal .controls .navigate-up {
   left: 42px;
   border-bottom-width: 22px;
-  border-bottom-color: #000; }
+  border-bottom-color: #0000ff; }
 
 .reveal .controls .navigate-up.fragmented {
   opacity: 0.3; }
@@ -250,7 +250,7 @@ body {
   left: 42px;
   top: 74px;
   border-top-width: 22px;
-  border-top-color: #000; }
+  border-top-color: #0000ff; }
 
 .reveal .controls .navigate-down.fragmented {
   opacity: 0.3; }

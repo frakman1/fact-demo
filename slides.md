@@ -191,6 +191,12 @@ Speed up firmware security analysis and vulnerability hunting via automation
 ### Device Tree
 <img src="img/16_device_tree.png"/>
 
+----
+
+<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+### Report PDF
+<img src="img/17_report.png"/>
+
 
 
 ----  ----
